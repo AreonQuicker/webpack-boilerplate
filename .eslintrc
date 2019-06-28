@@ -1,0 +1,12 @@
+{
+    "extends": [
+        "wesbos"
+    ],
+    "rules": {
+        "no-console": 2,
+        "import/no-extraneous-dependencies": 0,
+        "react/display-name": 0,
+        "react/prop-types": 0,
+        "no-unused-expressions": 0
+    }
+}
